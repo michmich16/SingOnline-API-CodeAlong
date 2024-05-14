@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Webudvikler-TechCollege/SingOnline-API-CodeAlong/issues"
   },
-  "homepage": "https://github.com/Webudvikler-TechCollege/SingOnline-API-CodeAlong#readme"
+  "homepage": "https://github.com/Webudvikler-TechCollege/SingOnline-API-CodeAlong#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
